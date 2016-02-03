@@ -1,5 +1,5 @@
 # DrillPandasReddit
-iPython Notebook for MapR's Free Code Friday featuring Apache Drill, Python Pandas, and Kittens.
+iPython Notebook for MapR's [Free Code Friday featuring Apache Drill](https://youtu.be/UOLC2edVqK8), Python Pandas, and Kittens.
 
 [View the notebook online here](https://github.com/cjmatta/DrillPandasReddit/blob/master/Reddit%20Drill%20Pandas.ipynb)
 
